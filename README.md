@@ -85,6 +85,9 @@ src folder: project files
 2) Youtube link
 3) Presentation link.
 
+### submit your resume at:
+
+##### https://goo.gl/forms/sb3XlaHgVA4jP6jJ3
 
 # AGENDA FOR KICK-OFF MEETING
 

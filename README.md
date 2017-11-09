@@ -57,12 +57,13 @@ Mohamoud Ali
 Brett Gaines, Kyle Harper, Manikanta Maddula
 
 ### UMKC-SCE
-Karthik Reddy Vundela
-Sidrah Junaid
-Megha Nagabhushan
-Vijaya Kumari Yeruva
-Saria Goudarzvand
-Guidelines
+Karthik Reddy Vundela,
+Sidrah Junaid,
+Megha Nagabhushan,
+Vijaya Kumari Yeruva,
+Saria Goudarzvand,
+
+### Guidelines
 Sidrah Junaid
 
 

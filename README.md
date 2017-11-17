@@ -2,7 +2,7 @@
 
 ![Hackathon Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Hackathon-Winners)
 
-![Quiz Winner](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Quiz-Winners)
+![Quiz Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Quiz-Winners)
 
 
 # ORGANIZERS: 

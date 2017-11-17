@@ -4,7 +4,7 @@
 
 ![Quiz Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Quiz-Winners)
 
-#judges
+# Judges
 
 ![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Judeges.JPG)
 

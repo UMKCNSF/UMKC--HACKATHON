@@ -15,6 +15,72 @@ Dr. Yugyung Lee, Rohith Kumar Nagulapati, Megha Nagabhushan, Sidrah Junaid, Kart
 
 ![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Screen%20Shot%202017-11-20%20at%2012.01.29%20PM.png)
 
+
+# H&R BLOCK
+
+Vijay Walunj![Linked In](https://www.linkedin.com/in/walunjvijay/)
+
+Malathy Krishnan![Linked In](https://www.linkedin.com/in/malathy-krishnan-a9973349/)
+
+Tim Brownfield ![Linked In](https://www.linkedin.com/in/tim-brownfield-b203731/)
+
+# IBM
+
+Paul-John ![Linked In]()
+
+Mayank Raj ![Linked In](https://www.linkedin.com/in/mayankraj03/)
+
+Srini Bhagavan ![Linked In]()
+
+# CBOE/BATS
+
+Matthew Denney ![](https://www.linkedin.com/in/starrecruitllc/)
+Paresh Kasare ![](https://www.linkedin.com/in/paresh-kasare-3a20019b/)
+
+# UMKC PROPEL PROGRAM
+
+Alexis Petri ![](https://www.linkedin.com/in/alexis-petri-858a464/)
+
+Buddy Pennington ![](https://www.linkedin.com/in/buddy-pennington-25ba07106/)
+
+# DST
+
+Katy Howard ![](https://www.linkedin.com/in/katy-may-howard-388a396b/)
+
+Todd Brees ![](https://www.linkedin.com/in/todd-brees-6b342a11/)
+
+# RYGBEE
+
+Sourish Dasgupta ![](https://www.linkedin.com/in/sourish-dasgupta-2432248/)
+
+# YOODLE
+
+Raj Anantharaman ![](https://www.linkedin.com/in/rajanantharaman/)
+
+# TIAA
+
+Matthew Velazquez ![](https://www.linkedin.com/in/matt-velazquez-6088b213/)
+
+# MAYO CLINIC
+
+Feichen Shen ![](https://www.linkedin.com/in/feichen-shen-ph-d-9336b895/)
+
+# GENUINE PARTS COMPANY
+
+Pradyumna Doddala ![](https://www.linkedin.com/in/pradyumnadoddala/)
+
+# VIN SOLUTIONS
+
+Mohamoud Ali ![](https://www.linkedin.com/in/awcali/)
+
+# CERNER
+
+Brett Gaines ![](https://www.linkedin.com/in/brettagaines/)
+
+Kyle Harper ![](https://www.linkedin.com/in/kaharper/)
+
+Manikanta Maddula ![](https://www.linkedin.com/in/manikanta-maddula-5a154271/)
+
 # GUIDELINES
 
 ### Eligibility

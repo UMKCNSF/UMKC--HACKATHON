@@ -13,6 +13,8 @@
 
 Dr. Yugyung Lee, Rohith Kumar Nagulapati, Megha Nagabhushan, Sidrah Junaid, Karthik Reddy Vundela, Marmik Patel, Vijaya Kumari Yeruva, Saria Goudarzvand, Sriharsha Sai, PrudhviSai Suggala, Shankar Chowdary Pentyala, Nageswara Rao Nandigama 
 
+![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Screen%20Shot%202017-11-20%20at%2012.01.29%20PM.png)
+
 # GUIDELINES
 
 ### Eligibility

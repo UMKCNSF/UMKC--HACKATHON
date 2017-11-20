@@ -16,6 +16,10 @@ Dr. Yugyung Lee, Rohith Kumar Nagulapati, Megha Nagabhushan, Sidrah Junaid, Kart
 ![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Screen%20Shot%202017-11-20%20at%2012.01.29%20PM.png)
 
 
+# Industry Partners :
+
+![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/industrypartners.png)
+
 # H&R BLOCK
 
 Vijay Walunj     ![Linked In](https://www.linkedin.com/in/walunjvijay/)

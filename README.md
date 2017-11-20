@@ -1,6 +1,6 @@
 # UMKC-Hackathon-Fall2017
 
-#[Follow on facebook at](https://www.facebook.com/umkchackathon/)
+# [Follow UMKC Hackathon on facebook at](https://www.facebook.com/umkchackathon/)
 
 ![Hackathon Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Hackathon-Winners)
 

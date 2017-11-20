@@ -35,6 +35,7 @@ Srini Bhagavan ![Linked In]()
 # CBOE/BATS
 
 Matthew Denney  ![Linked In](https://www.linkedin.com/in/starrecruitllc/)
+
 Paresh Kasare   ![Linked In](https://www.linkedin.com/in/paresh-kasare-3a20019b/)
 
 # UMKC PROPEL PROGRAM

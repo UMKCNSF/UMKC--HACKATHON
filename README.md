@@ -1,91 +1,92 @@
-# UMKC-Hackathon-Fall2017
+# UMKC-Hackathon-Spring2018(Hack-A-ROO)
 
 [Follow UMKC Hackathon on facebook](https://www.facebook.com/umkchackathon/)
 
-![Hackathon Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Hackathon-Winners)
+[2017 Hackathon Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Hackathon-Winners)
 
-![Quiz Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Quiz-Winners)
-
-# Judges
-
-![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Judeges.JPG)
+[2017 Quiz Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Quiz-Winners)
 
 
 # ORGANIZERS: 
 
-Dr. Yugyung Lee, Rohith Kumar Nagulapati, Megha Nagabhushan, Sidrah Junaid, Karthik Reddy Vundela, Marmik Patel, Vijaya Kumari Yeruva, Saria Goudarzvand, Sriharsha Sai, PrudhviSai Suggala, Shankar Chowdary Pentyala, Nageswara Rao Nandigama 
+Dr. Yugyung Lee, Megha Nagabhushan, Sidrah Junaid, Vijaya Kumari Yeruva, Mayanka Chandrashekhar, Rohith Kumar Nagulapati, Ahmed Albishri, Rashmi Tripati, Prudhvi Sai Suggala, Saria Goudarzvand, Sriharsha Sai, Nageswara Rao, Gharib Gharibi, Sayed Khushal  Shah, Zeenat Tariq, Urvish Shah
 
-![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Screen%20Shot%202017-11-20%20at%2012.01.29%20PM.png)
+[](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Judges.png)
 
 
 # Industry Partners :
 
-![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/industrypartners.png)
+[](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Partners.png)
 
 # H&R BLOCK
 
-Vijay Walunj     ![Linked In](https://www.linkedin.com/in/walunjvijay/)
+Vijay Walunj     [](https://www.linkedin.com/in/walunjvijay/)
 
-Malathy Krishnan ![Linked In](https://www.linkedin.com/in/malathy-krishnan-a9973349/)
+Malathy Krishnan [](https://www.linkedin.com/in/malathy-krishnan-a9973349/)
 
-Tim Brownfield   ![Linked In](https://www.linkedin.com/in/tim-brownfield-b203731/)
+Tim Brownfield   [](https://www.linkedin.com/in/tim-brownfield-b203731/)
 
 # IBM
 
-Paul-John ![Linked In]()
+Paul-John []()
 
-Mayank Raj ![Linked In](https://www.linkedin.com/in/mayankraj03/)
+Mayank Raj [](https://www.linkedin.com/in/mayankraj03/)
 
-Srini Bhagavan ![Linked In]()
+Srini Bhagavan []()
+
+Lakshman Sakaray []()
+
+# HOGAN PREPARATORY ACADEMY
+
+Ebony Edwards []()
+
+Danny Tipton  []()
+
+# VISA
+
+Naga Krishna Vadlamudi []()
+
+# WALMART LABS
+
+Sudhakar Reddy Peddinti []()
+
+# SELLOZO
+
+Nitin Mamillapally []()
 
 # CBOE/BATS
 
-Matthew Denney  ![Linked In](https://www.linkedin.com/in/starrecruitllc/)
+Matthew Denney  [](https://www.linkedin.com/in/starrecruitllc/)
 
-Paresh Kasare   ![Linked In](https://www.linkedin.com/in/paresh-kasare-3a20019b/)
+Paresh Kasare   [](https://www.linkedin.com/in/paresh-kasare-3a20019b/)
 
 # UMKC PROPEL PROGRAM
 
-Alexis Petri ![Linked In](https://www.linkedin.com/in/alexis-petri-858a464/)
+Alexis Petri [](https://www.linkedin.com/in/alexis-petri-858a464/)
 
-Buddy Pennington ![Linked In](https://www.linkedin.com/in/buddy-pennington-25ba07106/)
+Buddy Pennington [](https://www.linkedin.com/in/buddy-pennington-25ba07106/)
 
 # DST
 
-Katy Howard ![Linked In](https://www.linkedin.com/in/katy-may-howard-388a396b/)
+Katy Howard [](https://www.linkedin.com/in/katy-may-howard-388a396b/)
 
-Todd Brees ![Linked In](https://www.linkedin.com/in/todd-brees-6b342a11/)
+Todd Brees [](https://www.linkedin.com/in/todd-brees-6b342a11/)
 
-# RYGBEE
-
-Sourish Dasgupta ![Linked In](https://www.linkedin.com/in/sourish-dasgupta-2432248/)
+Annette Tate []()
 
 # YOODLE
 
-Raj Anantharaman ![Linked In](https://www.linkedin.com/in/rajanantharaman/)
+Raj Anantharaman [](https://www.linkedin.com/in/rajanantharaman/)
 
-# TIAA
-
-Matthew Velazquez ![Linked In](https://www.linkedin.com/in/matt-velazquez-6088b213/)
-
-# MAYO CLINIC
-
-Feichen Shen ![Linked In](https://www.linkedin.com/in/feichen-shen-ph-d-9336b895/)
-
-# GENUINE PARTS COMPANY
-
-Pradyumna Doddala ![Linked In](https://www.linkedin.com/in/pradyumnadoddala/)
 
 # VIN SOLUTIONS
 
-Mohamoud Ali ![Linked In](https://www.linkedin.com/in/awcali/)
+Mohamoud Ali [](https://www.linkedin.com/in/awcali/)
 
-# CERNER
+Brian Leftwich []()
 
-Brett Gaines ![Linked In](https://www.linkedin.com/in/brettagaines/)
+Bruce Meacham []()
 
-Kyle Harper ![Linked In](https://www.linkedin.com/in/kaharper/)
+# UMKC-SCE
 
-Manikanta Maddula ![Linked In](https://www.linkedin.com/in/manikanta-maddula-5a154271/)
-
-
+Dr. ZhiQiang Chen, Khushal Sayed Shah,Mayanka Chandrashekhar,Saria Goudarzvand

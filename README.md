@@ -2,90 +2,90 @@
 
 [Follow UMKC Hackathon on facebook](https://www.facebook.com/umkchackathon/)
 
-![2017 Hackathon Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Hackathon-Winners)
+[2017 Hackathon Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Hackathon-Winners)
 
-![2017 Quiz Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Quiz-Winners)
+[2017 Quiz Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Quiz-Winners)
 
 
 # ORGANIZERS: 
 
 Dr. Yugyung Lee, Megha Nagabhushan, Sidrah Junaid, Vijaya Kumari Yeruva, Mayanka Chandrashekhar, Rohith Kumar Nagulapati, Ahmed Albishri, Rashmi Tripati, Prudhvi Sai Suggala, Saria Goudarzvand, Sriharsha Sai, Nageswara Rao, Gharib Gharibi, Sayed Khushal  Shah, Zeenat Tariq, Urvish Shah
 
-![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Judges.png)
+[](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Judges.png)
 
 
 # Industry Partners :
 
-![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Partners.png)
+[](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Partners.png)
 
 # H&R BLOCK
 
-Vijay Walunj     ![Linked In](https://www.linkedin.com/in/walunjvijay/)
+Vijay Walunj     [](https://www.linkedin.com/in/walunjvijay/)
 
-Malathy Krishnan ![Linked In](https://www.linkedin.com/in/malathy-krishnan-a9973349/)
+Malathy Krishnan [](https://www.linkedin.com/in/malathy-krishnan-a9973349/)
 
-Tim Brownfield   ![Linked In](https://www.linkedin.com/in/tim-brownfield-b203731/)
+Tim Brownfield   [](https://www.linkedin.com/in/tim-brownfield-b203731/)
 
 # IBM
 
-Paul-John ![Linked In]()
+Paul-John []()
 
-Mayank Raj ![Linked In](https://www.linkedin.com/in/mayankraj03/)
+Mayank Raj [](https://www.linkedin.com/in/mayankraj03/)
 
-Srini Bhagavan ![Linked In]()
+Srini Bhagavan []()
 
-Lakshman Sakaray ![Linked In]()
+Lakshman Sakaray []()
 
 # HOGAN PREPARATORY ACADEMY
 
-Ebony Edwards ![Linked In]()
+Ebony Edwards []()
 
-Danny Tipton  ![Linked In]()
+Danny Tipton  []()
 
 # VISA
 
-Naga Krishna Vadlamudi ![Linked In]()
+Naga Krishna Vadlamudi []()
 
 # WALMART LABS
 
-Sudhakar Reddy Peddinti ![Linked In]()
+Sudhakar Reddy Peddinti []()
 
 # SELLOZO
 
-Nitin Mamillapally ![Linked In]()
+Nitin Mamillapally []()
 
 # CBOE/BATS
 
-Matthew Denney  ![Linked In](https://www.linkedin.com/in/starrecruitllc/)
+Matthew Denney  [](https://www.linkedin.com/in/starrecruitllc/)
 
-Paresh Kasare   ![Linked In](https://www.linkedin.com/in/paresh-kasare-3a20019b/)
+Paresh Kasare   [](https://www.linkedin.com/in/paresh-kasare-3a20019b/)
 
 # UMKC PROPEL PROGRAM
 
-Alexis Petri ![Linked In](https://www.linkedin.com/in/alexis-petri-858a464/)
+Alexis Petri [](https://www.linkedin.com/in/alexis-petri-858a464/)
 
-Buddy Pennington ![Linked In](https://www.linkedin.com/in/buddy-pennington-25ba07106/)
+Buddy Pennington [](https://www.linkedin.com/in/buddy-pennington-25ba07106/)
 
 # DST
 
-Katy Howard ![Linked In](https://www.linkedin.com/in/katy-may-howard-388a396b/)
+Katy Howard [](https://www.linkedin.com/in/katy-may-howard-388a396b/)
 
-Todd Brees ![Linked In](https://www.linkedin.com/in/todd-brees-6b342a11/)
+Todd Brees [](https://www.linkedin.com/in/todd-brees-6b342a11/)
 
-Annette Tate ![Linked In]()
+Annette Tate []()
 
 # YOODLE
 
-Raj Anantharaman ![Linked In](https://www.linkedin.com/in/rajanantharaman/)
+Raj Anantharaman [](https://www.linkedin.com/in/rajanantharaman/)
 
 
 # VIN SOLUTIONS
 
-Mohamoud Ali ![Linked In](https://www.linkedin.com/in/awcali/)
+Mohamoud Ali [](https://www.linkedin.com/in/awcali/)
 
-Brian Leftwich ![Linked In]()
+Brian Leftwich []()
 
-Bruce Meacham ![Linked In]()
+Bruce Meacham []()
 
 # UMKC-SCE
 

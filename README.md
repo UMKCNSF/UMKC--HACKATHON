@@ -6,21 +6,17 @@
 
 ![2017 Quiz Winners](https://github.com/UMKCNSF/UMKC--HACKATHON/wiki/Quiz-Winners)
 
-# Judges
-
-![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Judeges.JPG)
-
 
 # ORGANIZERS: 
 
-Dr. Yugyung Lee, Rohith Kumar Nagulapati, Megha Nagabhushan, Sidrah Junaid, Karthik Reddy Vundela, Marmik Patel, Vijaya Kumari Yeruva, Saria Goudarzvand, Sriharsha Sai, PrudhviSai Suggala, Shankar Chowdary Pentyala, Nageswara Rao Nandigama 
+Dr. Yugyung Lee, Megha Nagabhushan, Sidrah Junaid, Vijaya Kumari Yeruva, Mayanka Chandrashekhar, Rohith Kumar Nagulapati, Ahmed Albishri, Rashmi Tripati, Prudhvi Sai Suggala, Saria Goudarzvand, Sriharsha Sai, Nageswara Rao, Gharib Gharibi, Sayed Khushal  Shah, Zeenat Tariq, Urvish Shah
 
-![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Screen%20Shot%202017-11-20%20at%2012.01.29%20PM.png)
+![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Judges.png)
 
 
 # Industry Partners :
 
-![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/industrypartners.png)
+![](https://github.com/UMKCNSF/UMKC--HACKATHON/blob/master/Images/Partners.png)
 
 # H&R BLOCK
 
@@ -37,6 +33,26 @@ Paul-John ![Linked In]()
 Mayank Raj ![Linked In](https://www.linkedin.com/in/mayankraj03/)
 
 Srini Bhagavan ![Linked In]()
+
+Lakshman Sakaray ![Linked In]()
+
+# HOGAN PREPARATORY ACADEMY
+
+Ebony Edwards ![Linked In]()
+
+Danny Tipton  ![Linked In]()
+
+# VISA
+
+Naga Krishna Vadlamudi ![Linked In]()
+
+# WALMART LABS
+
+Sudhakar Reddy Peddinti ![Linked In]()
+
+# SELLOZO
+
+Nitin Mamillapally ![Linked In]()
 
 # CBOE/BATS
 
@@ -56,36 +72,21 @@ Katy Howard ![Linked In](https://www.linkedin.com/in/katy-may-howard-388a396b/)
 
 Todd Brees ![Linked In](https://www.linkedin.com/in/todd-brees-6b342a11/)
 
-# RYGBEE
-
-Sourish Dasgupta ![Linked In](https://www.linkedin.com/in/sourish-dasgupta-2432248/)
+Annette Tate ![Linked In]()
 
 # YOODLE
 
 Raj Anantharaman ![Linked In](https://www.linkedin.com/in/rajanantharaman/)
 
-# TIAA
-
-Matthew Velazquez ![Linked In](https://www.linkedin.com/in/matt-velazquez-6088b213/)
-
-# MAYO CLINIC
-
-Feichen Shen ![Linked In](https://www.linkedin.com/in/feichen-shen-ph-d-9336b895/)
-
-# GENUINE PARTS COMPANY
-
-Pradyumna Doddala ![Linked In](https://www.linkedin.com/in/pradyumnadoddala/)
 
 # VIN SOLUTIONS
 
 Mohamoud Ali ![Linked In](https://www.linkedin.com/in/awcali/)
 
-# CERNER
+Brian Leftwich ![Linked In]()
 
-Brett Gaines ![Linked In](https://www.linkedin.com/in/brettagaines/)
+Bruce Meacham ![Linked In]()
 
-Kyle Harper ![Linked In](https://www.linkedin.com/in/kaharper/)
+# UMKC-SCE
 
-Manikanta Maddula ![Linked In](https://www.linkedin.com/in/manikanta-maddula-5a154271/)
-
-
+Dr. ZhiQiang Chen, Khushal Sayed Shah,Mayanka Chandrashekhar,Saria Goudarzvand
